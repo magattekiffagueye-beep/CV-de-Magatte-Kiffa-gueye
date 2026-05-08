@@ -32,12 +32,11 @@ Compétences en suite numérique""")
 
 
 with st.sidebar:
-    st.subheader("""CONTACT
-    Email: magattekiffagueye@gmail.com
+    st.subheader("""CONTACT 
+Email: magattekiffagueye@gmail.com
 
 
-    
-    Adresse: Saint Louis, Sénegal""")
+ Adresse: Saint Louis, Sénegal""")
     
     
 
