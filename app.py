@@ -3,7 +3,7 @@ import streamlit as st
 
 
 st.title("MAGATTE KIFFA GUEYE")
-st.header("Etudiante en science agricole et alimentaire")
+st.header("Technicienne Supérieure en science agricole et alimentaire")
 st.markdown("""          
 Je suis étudiante en sciences agricoles, alimentaires et nutritionnelles. Je maîtrise les bases de l’analyse en sciences agroalimentaires et les techniques de laboratoire simples, ainsi que les méthodes de collecte et d’interprétation de données.""")
 st.subheader("""FORMATION
