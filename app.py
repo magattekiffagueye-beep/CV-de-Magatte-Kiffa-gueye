@@ -37,7 +37,9 @@ Email: magattekiffagueye@gmail.com
 
 
  Adresse: Saint Louis, Sénegal""")
-      st.write("Je reste entièrement disponible pour tout complément d’information et pour un éventuel entretien à votre convenance.")
+  with st.sidebar:
+    st.write("Je reste entièrement disponible pour tout complément d’information et pour un éventuel entretien à votre convenance.")
+    
 
 
     
