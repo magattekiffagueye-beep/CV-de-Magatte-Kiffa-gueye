@@ -32,6 +32,9 @@ Notions de production agroalimentaire""")
 with st.sidebar:
     st.subheader("""CONTACT
     Email: magattekiffagueye@gmail.com
+
+
+    
     Adresse: Saint Louis, Sénegal""")
     
     
