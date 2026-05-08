@@ -7,11 +7,11 @@ st.header("Etudiante en science agricole et alimentaire")
 st.markdown("""          
 Je suis étudiante en sciences agricoles, alimentaires et nutritionnelles. Je maîtrise les bases de l’analyse en sciences agroalimentaires et les techniques de laboratoire simples, ainsi que les méthodes de collecte et d’interprétation de données.""")
 st.subheader("""FORMATION
-2025 – 2026 : Deuxième année en Sciences Agricoles et Alimentaires
+2025 – 2026 : Technicienne supérieure en Sciences Agricoles et Alimentaires
 
-2024 – 2025 : Première année en Sciences Agricoles et Alimentaires
+
                                                                                                                                                      
-2023 – 2024 : Baccalauréat – Lycée de Jeune Ameth Fall""")
+2023 – 2024 : Diplome de Baccalauréat """)
 st.subheader("""EXPERIENCE PROFESSINONNELLE
 Visites pédagogiques : observation des cultures et techniques agricoles
 
@@ -30,7 +30,9 @@ Notions de production agroalimentaire""")
 
 
 with st.sidebar:
-    st.write("cc")
+    st.subheader("""CONTACT
+    Email: magattekiffagueye@gmail.com
+    Adresse: Saint Louis, Sénegal""")
     
     
 
