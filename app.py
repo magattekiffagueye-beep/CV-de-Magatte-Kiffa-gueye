@@ -26,7 +26,9 @@ Observation des cultures et travaux agricoles
 
 Observation des cultures et travaux agricoles
 
-Notions de production agroalimentaire""")
+Notions de production agroalimentaire
+
+Compétences en suite numérique""")
 
 
 with st.sidebar:
