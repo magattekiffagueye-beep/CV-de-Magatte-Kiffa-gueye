@@ -3,9 +3,9 @@ import streamlit as st
 
 
 st.title("MAGATTE KIFFA GUEYE")
-st.header("Etudiante en science agricole et alimentaire")
+st.header("Technicienne supérieure en science agricole et alimentaire")
 st.markdown("""          
-Je suis étudiante en sciences agricoles, alimentaires et nutritionnelles. Je maîtrise les bases de l’analyse en sciences agroalimentaires et les techniques de laboratoire simples, ainsi que les méthodes de collecte et d’interprétation de données.""")
+Je suis technicienne supérieure  en sciences agricoles, alimentaires et nutritionnelles. Je maîtrise les bases de l’analyse en sciences agroalimentaires et les techniques de laboratoire simples, ainsi que les méthodes de collecte et d’interprétation de données.""")
 st.subheader("""FORMATION
 2026 – 2027 : Technicienne supérieure en Sciences Agricoles et Alimentaires
 
@@ -59,7 +59,11 @@ Integration dans le club environnementale ECO HUMAN en tant que secrétaire gén
 Etant une couturiére:Lancement de mon activité de couture avec commercialisation en ligne 
 
 Rédiger des Comptes rendus de reunion et Faire des présentations à partir des logiciels Word, Excel et PowerPoint """)
+
+
 st.image("Photo champ.jpeg",width=300)
+
+
 st.video("BCD.mp4",width=300)
 
 
