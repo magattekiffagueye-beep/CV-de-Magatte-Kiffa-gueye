@@ -15,7 +15,7 @@ st.subheader("""FORMATION
 st.subheader("""EXPERIENCE PROFESSINONNELLE
 Visites pédagogiques : observation des cultures et techniques agricoles
 
-Participation aux activités d’entretien de champ
+Participation aux activités d’entretien de champs
 
 Travaux d’irrigation et activités agricoles pratiques
 
