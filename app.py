@@ -32,7 +32,7 @@ Notions de production agroalimentaire""")
 with st.sidebar:
     st.subheader("""CONTACTS
 
-    Email: magattekiffagueye@gmail.com
+    Email: magattekiffagueye@gmail.com""")
 
 
     
