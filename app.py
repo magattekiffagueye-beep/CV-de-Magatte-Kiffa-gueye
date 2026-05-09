@@ -63,10 +63,9 @@ Etant une couturiére:Lancement de mon activité de couture avec commercialisati
 Rédiger des Comptes rendus de reunion et Faire des présentations à partir des logiciels Word, Excel et PowerPoint """)
 
 
-st.image("Photo champ.jpeg",width=300)
 
 
-st.video("BCD.mp4",width=300)
+
 
 
 
