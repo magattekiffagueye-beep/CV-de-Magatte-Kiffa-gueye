@@ -7,15 +7,15 @@ st.header("Etudiante en science agricole et alimentaire")
 st.markdown("""          
 Je suis étudiante en sciences agricoles, alimentaires et nutritionnelles. Je maîtrise les bases de l’analyse en sciences agroalimentaires et les techniques de laboratoire simples, ainsi que les méthodes de collecte et d’interprétation de données.""")
 st.subheader("""FORMATION
-2025 – 2026 : Deuxième année en Sciences Agricoles et Alimentaires
+2026 – 2027 : Technicienne supérieure en Sciences Agricoles et Alimentaires
 
 
                                                                                                                                                      
-2023 – 2024 : Baccalauréat – Lycée de Jeune Amethl""")
+2023 – 2024 : diplome de Baccalauréat """)
 st.subheader("""EXPERIENCES PROFESSINONNELLES
 Visites pédagogiques : observation des cultures et techniques agricoles
 
-Participation aux activités d’entretien de champ
+Participation aux activités d’entretien de champs
 
 Travaux d’irrigation et activités agricoles pratiques
 
