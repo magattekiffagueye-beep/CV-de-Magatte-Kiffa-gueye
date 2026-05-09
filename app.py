@@ -61,6 +61,7 @@ Integration dans le club environnementale ECO HUMAN en tant que secrétaire gén
 Etant une couturiére:Lancement de mon activité de couture avec commercialisation en ligne 
 
 Rédiger des Comptes rendus de reunion et Faire des présentations à partir des logiciels Word, Excel et PowerPoint """)
+st.image("photo champs.jpej")
 
 
 
