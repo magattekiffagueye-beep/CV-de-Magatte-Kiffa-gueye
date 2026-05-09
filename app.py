@@ -48,7 +48,7 @@ with st.sidebar:
 
     
     st.write("email: gueye.kiffa@uam.edu.sn")  
-    st.write("adress:Saint Louis, Sénégal")
+    st.write("adresse:Saint Louis, Sénégal")
     st.markdown("""
 
 
