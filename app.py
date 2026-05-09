@@ -3,6 +3,7 @@ import streamlit as st
 
 
 st.title("MAGATTE KIFFA GUEYE")
+
 st.header("Technicienne supérieure en science agricole et alimentaire")
 st.markdown("""          
 Je suis technicienne supérieure  en sciences agricoles, alimentaires et nutritionnelles. Je maîtrise les bases de l’analyse en sciences agroalimentaires et les techniques de laboratoire simples, ainsi que les méthodes de collecte et d’interprétation de données.""")
@@ -26,7 +27,8 @@ Observation des cultures et travaux agricoles
 
 Observation des cultures et travaux agricoles
 
-Notions de production agroalimentaire""")
+Notions de production agroalimentaire
+Compétences en suite numérique""")
 
 
 with st.sidebar:
