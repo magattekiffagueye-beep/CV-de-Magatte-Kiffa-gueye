@@ -38,7 +38,7 @@ with st.sidebar:
 
 
     
-    st.image("photo.jpeg",width=150)
+    st.image("pp.jpeg",width=200)
     
     
     
@@ -65,7 +65,7 @@ Rédiger des Comptes rendus de reunion et Faire des présentations à partir des
 
 
 
-st.image("pp.jpeg",width=300)
+st.image("photo champs.jpeg",width=300)
 
 st.video("BCD.mp4",width=300)
 
