@@ -65,7 +65,7 @@ Rédiger des Comptes rendus de reunion et Faire des présentations à partir des
 
 
 
-st.markdown("https://github.com/magattekiffagueye-beep/CV-de-Magatte-Kiffa-gueye/blob/c905dd9d4ee71b74ba89b4d4f11c11b683ef6e2d/photo.jpeg",width=300)
+st.image("photo champ.jpeg",width=300)
 
 st.video("BCD.mp4",width=300)
 
