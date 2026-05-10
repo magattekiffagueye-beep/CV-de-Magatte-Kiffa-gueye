@@ -38,7 +38,7 @@ with st.sidebar:
 
 
     
-    st.image("pp.jpeg",width=200)
+    st.image("photo.jpeg",width=200)
     
     
     
