@@ -65,7 +65,8 @@ Rédiger des Comptes rendus de reunion et Faire des présentations à partir des
 
 
 
-st.image("photo champs.jpej",width=300)
+st.image("
+photo champ.jpeg",width=300)
 
 
 
