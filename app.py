@@ -67,6 +67,9 @@ Rédiger des Comptes rendus de reunion et Faire des présentations à partir des
 
 st.image("photo champ.jpeg",width=300)
 
+st.video("BCD.mp4",width=300)
+
+
 
 
 
